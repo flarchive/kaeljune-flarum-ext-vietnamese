@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of kaeljune/flarum-ext-vietnamese.** Not for installation: use [Packagist](https://packagist.org/packages/kaeljune/flarum-ext-vietnamese) or the [upstream repository](https://github.com/kaeljune/flarum-ext-vietnamese).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/kaeljune-flarum-ext-vietnamese/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**4** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/kaeljune-flarum-ext-vietnamese/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2016-08-19 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/kaeljune-flarum-ext-vietnamese/tree/archive/v1.0.0) |
+| `v1.0.1` | 2016-08-19 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/kaeljune-flarum-ext-vietnamese/tree/archive/v1.0.1) |
+| `v1.0.2` | 2016-08-19 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/kaeljune-flarum-ext-vietnamese/tree/archive/v1.0.2) |
+| `v1.0.3` | 2016-08-19 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/kaeljune-flarum-ext-vietnamese/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/kaeljune-flarum-ext-vietnamese.json](https://github.com/flarchive/archive-index/blob/main/packages/kaeljune-flarum-ext-vietnamese.json)
 
